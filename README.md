@@ -150,5 +150,3 @@ O projeto ignora:
 ## 📄 Licença
 
 Projeto livre para uso educacional e pessoal.
-
-💬 Se quiser ajuda para melhorar, empacotar ou evoluir esse sistema, é só pedir! 🚀
