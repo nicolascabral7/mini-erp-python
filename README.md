@@ -143,7 +143,7 @@ O projeto ignora:
 
 ## 👨‍💻 Autor
 
-**Nicolas Cabral** — Projeto feito com ajuda do **ChatGPT** 🤖
+**Nicolas Cabral** 
 
 ---
 
