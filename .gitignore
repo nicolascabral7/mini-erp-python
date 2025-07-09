@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database file
+erp.db
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# VSCode settings
+.vscode/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
